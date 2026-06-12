@@ -1,1 +1,3 @@
 handeenv/
+__pycache__/
+*.py[cod]
